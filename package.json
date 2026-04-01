@@ -1,10 +1,10 @@
 {
-  "name": "nrg-unified-playwright",
+  "name": "create-nrg-playwright",
   "version": "1.0.0",
   "description": "A beautiful, colorful CLI to scaffold Playwright projects with TypeScript or JavaScript - inspired by GitHub Copilot CLI",
   "type": "module",
   "bin": {
-    "nrg-unified-playwright": "./index.js"
+    "create-nrg-playwright": "./index.js"
   },
   "files": [
     "index.js",
